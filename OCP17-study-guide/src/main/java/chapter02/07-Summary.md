@@ -1,8 +1,22 @@
 # Summary
 
-This chapter covered a wide variety of Java operator topics for unary, binary, and ternary operators.
-It is important that you understand how to use all of the required Java operators covered in this chapter and know how
-operator precedence and parentheses influence the way a particular expression is interpreted.
+Öncelik sırasına göre sıralanmıştır.
 
-When you see an operator involving numbers on the exam, always check that the appropriate data types are used and that
-they match each other where applicable.
+- Parantez içi ifadeler: ()
+- Arttırma ve azaltma: ++, --
+- Aritmetiksel işlemler:
+- Ünlem ve işareti: +, - (ünary operatörler, örneğin -5 veya +3)
+- Çarpma, bölme, mod: *, /, %
+- Aritmetiksel işlemler (toplama, çıkarma): +, -
+- Bitwise kaydırma operatörleri: <<, >>, >>>
+- Karşılaştırma operatörleri:
+    * <, <=, >, >= (küçüktür, küçük eşittir, büyüktür, büyük eşittir)
+    * instanceof
+- Eşitlik ve eşit olmama: ==, !=
+- Bitwise AND: &
+- Bitwise exclusive OR: ^
+- Bitwise inclusive OR: |
+- Mantıksal AND: &&
+- Mantıksal OR: ||
+- Koşul (ternary) operatörü: ?:
+- Atama ve atama kombinasyonları: =, +=, -=, *=, /=, %=, &=, ^=, |=, <<=, >>=, >>>=
